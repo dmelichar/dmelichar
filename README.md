@@ -4,7 +4,7 @@ My name is Daniel. I work as a freelance **Software Engineer** :technologist:.
 
 * :hammer: I focus on building web applications and system tools.
  
-* :toolbox: I dabble in other topics like Machine Learning and DevOps.
+* :toolbox: I worked on topics like Machine Learning and DevOps.
 
 * :books: I am doing a masters in computer science.
  
