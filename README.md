@@ -1,7 +1,5 @@
 # hello, human. :wave:
 
-My name is Daniel.
-
 * :toolbox: I work on topics like Machine Learning and DevOps.
 
 * :books: I am doing a masters in computer science.
