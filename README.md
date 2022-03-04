@@ -1,9 +1,7 @@
 # hello, human. :wave:
 
-My name is Daniel. I am a **Software Engineer** :technologist:.
+My name is Daniel.
 
-* :hammer: I focus on building web applications and system tools.
- 
 * :toolbox: I work on topics like Machine Learning and DevOps.
 
 * :books: I am doing a masters in computer science.
