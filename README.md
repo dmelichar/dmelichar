@@ -1,6 +1,6 @@
 # hello, human. :wave:
 
-* :toolbox: I work on topics like Machine Learning and DevOps.
+* :toolbox: I develop software
 
 * :books: I am doing a masters in computer science.
  
